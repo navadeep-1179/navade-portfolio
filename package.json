@@ -1,0 +1,25 @@
+{
+  "name": "navadeep-portfolio-ai-chatbot",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website with an Integrated AI Chatbot for Navadeep Reddy (Round 2 Technical Domain Task)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "ai-chatbot",
+    "javascript",
+    "vnr-vjiet",
+    "technical-domain",
+    "round-2"
+  ],
+  "author": "Navadeep Reddy <navadeepreddy.s1179@gmail.com> (https://github.com/navadeep-1179)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/navadeep-1179/portfolio-ai-chatbot.git"
+  }
+}
